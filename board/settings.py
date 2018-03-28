@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'kjdDB',
         'USER': 'kimjdo',
         'PASSWORD': 'kjd121617',
-        'HOST': '.anywhere.com',
+        'HOST': '.pythonanywhere.com',
         'PORT': '3306',
     }
 }
