@@ -1,0 +1,6 @@
+*.puc
+*~
+__pycache__
+myvenv
+/static
+.DB_store
