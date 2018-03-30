@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'board.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'edu4i2u$kjdDB',
-        'USER': 'edu4i2u',
+        'NAME': 'kjdDB',
+        'USER': 'kimjdo',
         'PASSWORD': 'kjd121617',
-        'HOST': 'edu4i2u.mysql.pythonanywhere-services.com',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }
